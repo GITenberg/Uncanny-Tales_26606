@@ -1,0 +1,32 @@
+_repo: Uncanny-Tales_26606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: 'Craving a good scare? Dip into this carefully selected collection of
+  freaky, fear-inspiring and fantastical tales written by a who''s-who of writers
+  from the golden age of horror. Just a fair warning, though: you''ll probably be
+  sleeping with the light on tonight.'
+gutenberg_issued: '2008-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Horror tales'
+- !lcsh 'Short stories'
+tableOfContents: The unknown quantity -- The armless man -- The tomtom clue -- The
+  case of Sir Alister Moeran -- The kiss -- The Goth -- The last ascent -- The terror
+  by night -- The tragedy at the "Loup Noir".
+title: Uncanny Tales
+url: http://www.gutenberg.org/ebooks/26606
